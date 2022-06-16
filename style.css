@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#canvas{
+    width: 100VW;
+    height: 70VH;
+    background-color: aqua;
+    margin-top: 4rem;
+}
